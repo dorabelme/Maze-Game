@@ -13,7 +13,6 @@ Maze Game built with Matter JS.
 - JavaScript
 - Matter.js
 - HTML5
-- CSS3
 
 ## Installation
 
