@@ -5,7 +5,7 @@ Maze Game built with Matter JS.
 ## Short demo:
 
 <p align ="center">
-<img src="./maze_mov.gif" alt="Maze Game example">
+<img src="./maze.gif" alt="Maze Game example">
 </p>
 
 ## Tech Stack
